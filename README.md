@@ -1,4 +1,4 @@
-# Sparkfun-TB6612 RaspberryPi Library
+# RPi Sparkfun-TB6612 Library (CPP)
 This Library is for the [Sparkfun TB6612FNG Motor Driver](https://www.sparkfun.com/sparkfun-motor-driver-dual-tb6612fng-1a.html) and has been re-written for the RPi (it is based on [this](https://github.com/sparkfun/SparkFun_TB6612FNG_Arduino_Library) Arduino Library by [Sparkfun](https://github.com/sparkfun)).
 
 **Changes to Original**
